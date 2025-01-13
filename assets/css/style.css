@@ -28,10 +28,10 @@ body {
     background-position: right;
     height: 90vh;
     display: flex;
-    /*
+    /* Text */
     justify-content: center;
     align-items: center;
-    text-align: center;*/
+    text-align: center;
 }
 
 .hero-image h1 {
